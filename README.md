@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a collaborative person with special interest in free software.
+
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
