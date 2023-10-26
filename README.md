@@ -9,10 +9,15 @@ I'm receiving donations to ensure sustainability of this project for the years t
 
 # 🔭 I’m currently working on
 
+## QPL 2024
 I'm working towards QPL 2024! This is a really exciting and ambitious challenge but I hope I can give a tool session. I'm a Computer Scientist from UBA, I'm a local, and I have a unique opportunity to participate :)
 
-https://github.com/colltoaction/qpl2024
+* https://github.com/colltoaction/qpl2024
 
+## nx_yaml
+Fast Representation Graph for PyYAML using NetworkX.
+
+* https://github.com/yaml-programming/nx_yaml
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
