@@ -1,22 +1,24 @@
-I invite you to join me on a personal journey.
+H! I'm Coll and I'm a full-time researcher and software engineer.
 
-I'm a full-time researcher and developer and I contribute everything I do. This is an ethics stance.
+I quit the industry after 10 years to dedicate full-time to contributing. This means I pick my own research topics and then develop the things I think programmers are missing.
 
-I pick research topics based on my interests and this is the only way my brain can work.
+I'm receiving donations to ensure sustainability of this project for the years to come. I want to be an independent open contributor and your help will have a big impact in my economy.
 
-I believe this work is important and prioritize it over income.
+---
 
-I'm very human and by using GitHub sponsors you can put some money in my pocket with your credit card. This helps me focus and forget how much companies are paying.
 
-Thank you 🙏🏼
+# 🔭 I’m currently working on
+
+I'm working towards QPL 2024! This is a really exciting and ambitious challenge but I hope I can give a tool session. I'm a Computer Scientist from UBA, I'm a local, and I have a unique opportunity to participate :)
+
+https://github.com/colltoaction/qpl2024
 
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
