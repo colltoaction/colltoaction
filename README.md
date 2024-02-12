@@ -1,6 +1,6 @@
 H! I'm Coll and I'm a full-time researcher and software engineer.
 
-I quit the industry after 10 years to dedicate full-time to contributing. This means I pick my own research topics and then develop the things I think programmers are missing.
+After 10 years in the industry and much work on the side I decided to dedicate full-time on my projects. I'm researching very abstract topics to develop the tools I wish I had all this time.
 
 I'm receiving donations to ensure sustainability of this project for the years to come. I want to be an independent open contributor and your help will have a big impact in my economy.
 
@@ -9,15 +9,15 @@ I'm receiving donations to ensure sustainability of this project for the years t
 
 # 🔭 I’m currently working on
 
+## hol
+Higher-Order programming with YAML
+
+* https://github.com/yaml-programming/hol
+
 ## QPL 2024
-I'm working towards QPL 2024! This is a really exciting and ambitious challenge but I hope I can give a tool session. I'm a Computer Scientist from UBA, I'm a local, and I have a unique opportunity to participate :)
+I want to present my tooling in this logicians conference. Doing this is a really exciting and ambitious challenge that requires me to have a good formalism.
 
 * https://github.com/colltoaction/qpl2024
-
-## nx_yaml
-Fast Representation Graph for PyYAML using NetworkX.
-
-* https://github.com/yaml-programming/nx_yaml
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
