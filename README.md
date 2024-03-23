@@ -1,4 +1,4 @@
-H! I'm Coll and I'm a full-time researcher and software engineer.
+Hi! I'm Coll and I'm a full-time researcher and software engineer.
 
 After 10 years in the industry and much work on the side I decided to dedicate full-time on my projects. I'm researching very abstract topics to develop the tools I wish I had all this time.
 
