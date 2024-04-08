@@ -1,23 +1,27 @@
-Hi! I'm Coll and I'm a full-time researcher and software engineer.
+Hi! I'm Coll and I'm a full-time researcher and software engineer. I'm building a categorical software stack.
 
-After 10 years in the industry and much work on the side I decided to dedicate full-time on my projects. I'm researching very abstract topics to develop the tools I wish I had all this time.
+After 10 years in the industry and much work on the side I decided to dedicate full-time on this project. I'm researching very abstract topics to develop the tools I needed, but that was hardly viable for my employers.
 
-I'm receiving donations to ensure sustainability of this project for the years to come. I want to be an independent open contributor and your help will have a big impact in my economy.
+I produce lots of Creative Commons Zero that you might want to support!
 
 ---
 
 
 # 🔭 I’m currently working on
 
-## hol
-Higher-Order programming with YAML
+## YAML Diagrams
+I'm building a Diagram development environment with UNIX and YAML.
 
-* https://github.com/yaml-programming/hol
+* https://github.com/yaml-programming/diagrams
 
 ## QPL 2024
-I want to present my tooling in this logicians conference. Doing this is a really exciting and ambitious challenge that requires me to have a good formalism.
+I presented a poster to the Quantum Physics and Logic 2024 conference. It is an academic presentation of YAML Diagrams and can be found here:
 
 * https://github.com/colltoaction/qpl2024
+
+## Future work
+Diagrams unify math and programming by binding the syntactic and semantic views. They are a powerful alternative to Abstract Syntax Trees and I would like to write full-stack diagrammatic programs all the way to the hardware instructions.
+
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
