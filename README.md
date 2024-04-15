@@ -1,8 +1,6 @@
-Hi! I'm Coll and I'm a full-time researcher and software engineer. I'm building a categorical software stack.
+Hi, I'm Coll! I'm a full-time researcher and software engineer building a diagrammatic software stack.
 
-After 10 years in the industry and much work on the side I decided to dedicate full-time on this project. I'm researching very abstract topics to develop the tools I needed, but that was hardly viable for my employers.
-
-I produce lots of Creative Commons Zero that you might want to support!
+After 10 years in the industry and much work on the side I decided to concentrate in this project. I produce lots of Creative Commons Zero that you might want to support!
 
 ---
 
