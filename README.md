@@ -8,7 +8,7 @@ After 10 years in the industry and much work on the side I decided to concentrat
 # 🔭 I’m currently working on
 
 ## YAML Diagrams
-I'm building a Diagram development environment with UNIX and YAML.
+I'm building a diagrammatical development environment with UNIX and YAML.
 
 * https://github.com/yaml-programming/diagrams
 
@@ -18,8 +18,24 @@ I presented a poster to the Quantum Physics and Logic 2024 conference. It is an 
 * https://github.com/colltoaction/qpl2024
 
 ## Future work
-Diagrams unify math and programming by binding the syntactic and semantic views. They are a powerful alternative to Abstract Syntax Trees and I would like to write full-stack diagrammatic programs all the way to the hardware instructions.
-
+Using the diagrammatic development environment I want to explore some of these topics:
+* compilers
+  * abstract syntax trees
+  * instruction set architectures
+  * MLIR and intermediate representations
+  * bytecode formats
+* programming
+  * Kubernetes
+  * composing LLMs, AI in general
+  * UNIX
+  * Reactive programming
+  * Ethereum
+  * custom hardware
+  * formalized programs
+* self improvement
+  * binary bootstrapping using Julia
+  * git(hub) decentralized program distribution
+  * extend library
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
