@@ -1,19 +1,24 @@
 Hi, I'm Coll! I'm a full-time researcher and software engineer building a diagrammatic software stack.
 
-After 10 years in the industry and much work on the side I decided to concentrate in this project. I produce lots of Creative Commons Zero that you might want to support!
+After 10 years in the industry and much work on the side I decided to concentrate in this project.
+
+I write lots of Creative Commons Zero code and documents and you might want to support this endeavor.
 
 ---
 
 
 # 🔭 I’m currently working on
 
-## YAML Diagrams
+## Widip
 I'm building a diagrammatical development environment with UNIX and YAML.
 
-* https://github.com/yaml-programming/diagrams
+It is heavily inspired by Lisp and the name comes from "Wiring Diagram Processing".
 
+* https://github.com/widip/widip
+
+# Recent work
 ## QPL 2024
-I presented a poster to the Quantum Physics and Logic 2024 conference. It is an academic presentation of YAML Diagrams and can be found here:
+I presented a paper to the Quantum Physics and Logic 2024 conference. It is an academic presentation of Widip and can be found here:
 
 * https://github.com/colltoaction/qpl2024
 
