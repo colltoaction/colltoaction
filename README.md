@@ -1,18 +1,15 @@
-Hi, I'm Coll! I'm a full-time researcher and software engineer building a diagrammatic software stack.
+Building systems for graphical programming 👋🏼
 
-After 10 years in the industry and much work on the side I decided to concentrate in this project.
+I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
 
-I write lots of Creative Commons Zero code and documents and you might want to support this endeavor.
+> Types? Where we're going, we don't need types!
 
 ---
-
 
 # 🔭 I’m currently working on
 
 ## Widip
-I'm building a diagrammatical development environment with UNIX and YAML.
-
-It is heavily inspired by Lisp and the name comes from "Wiring Diagram Processing".
+Widip is an interactive program for building wiring diagram libraries. It seamlessly integrates with editors and CLIs for Linux and MacOS as a UNIX shell.
 
 * https://github.com/widip/widip
 
