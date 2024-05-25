@@ -1,8 +1,6 @@
-Building systems for graphical programming 👋🏼
+> _Types? Where we're going, we don't need types!_
 
-I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
-
-> Types? Where we're going, we don't need types!
+Hi, I'm Coll 👋🏼. I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
 
 ---
 
@@ -11,7 +9,7 @@ I'm an independent researcher and software engineer. My interests lie at the int
 ## Widip
 Widip is an interactive program for building wiring diagram libraries. It seamlessly integrates with editors and CLIs for Linux and MacOS as a UNIX shell.
 
-* https://github.com/widip/widip
+* https://github.com/colltoaction/widip
 
 # Recent work
 ## Charla Diagramas de Cableado
