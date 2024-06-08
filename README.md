@@ -12,10 +12,8 @@ Widip is an interactive program for building wiring diagram libraries. It seamle
 * https://github.com/colltoaction/widip
 
 # Recent work
-## Charla Diagramas de Cableado
-Participé del Club del Paper y publicamos el video donde explico el razonamiento diagramático.
-
-* https://youtube.com/playlist?list=PLBuE2pTkoMqO6S0bSCeUkq6gIaYBaISxj
+## Spanish talks
+https://youtube.com/playlist?list=PLAHKhfRZFp-Z6TuGShdeZENCAlAMEjkV1
 
 ## QPL 2024
 I presented a paper to the Quantum Physics and Logic 2024 conference. It is an academic presentation of Widip and can be found here:
