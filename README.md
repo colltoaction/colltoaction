@@ -1,27 +1,28 @@
-> _Types? Where we're going, we don't need types!_
+Hi, I'm Coll 👋🏼
 
-Hi, I'm Coll 👋🏼. I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
+I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
+
+> _Types? Where we're going, we don't need types!_
 
 ---
 
 # 🔭 I’m currently working on
 
-## Widip
-Widip is an interactive program for building wiring diagram libraries. It seamlessly integrates with editors and CLIs for Linux and MacOS as a UNIX shell.
+## Widip: Wiring Diagram Processing
+Widip is a system for programming with diagrams.
 
 * https://github.com/colltoaction/widip
+
+Academic research for Widip can be found here:
+
+* https://github.com/colltoaction/qpl2024
 
 # Recent work
 ## Spanish talks
 https://youtube.com/playlist?list=PLAHKhfRZFp-Z6TuGShdeZENCAlAMEjkV1
 
-## QPL 2024
-I presented a paper to the Quantum Physics and Logic 2024 conference. It is an academic presentation of Widip and can be found here:
-
-* https://github.com/colltoaction/qpl2024
-
-## Future work
-Using the diagrammatic development environment I want to explore some of these topics:
+## 🔮 Future work
+I want to explore some of these topics for Widip:
 * compilers
   * abstract syntax trees
   * instruction set architectures
