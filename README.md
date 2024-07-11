@@ -13,18 +13,18 @@ Widip is a system for programming with diagrams.
 
 * https://github.com/colltoaction/widip
 
-Academic research for Widip can be found here:
+## Academic research
+Academic and project related writings.
 
-* https://github.com/colltoaction/qpl2024
+* https://github.com/colltoaction/academic
 
 # Recent work
 ## Spanish talks
 https://youtube.com/playlist?list=PLAHKhfRZFp-Z6TuGShdeZENCAlAMEjkV1
 
 ## 🔮 Future work
-I want to explore some of these topics for Widip:
+I want to work on several projects using Widip:
 * compilers
-  * abstract syntax trees
   * instruction set architectures
   * MLIR and intermediate representations
   * bytecode formats
@@ -39,7 +39,6 @@ I want to explore some of these topics for Widip:
 * self improvement
   * binary bootstrapping using Julia
   * git(hub) decentralized program distribution
-  * extend library
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
