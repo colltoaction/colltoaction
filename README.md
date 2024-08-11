@@ -8,6 +8,11 @@ I'm an independent researcher and software engineer. My interests lie at the int
 
 # 🔭 I’m currently working on
 
+## Reversible computing with FPGAs
+Open hardware descriptions for reversible computers.
+
+* https://github.com/colltoaction/edu-ciaa-fpga
+
 ## Widip: Wiring Diagram Processing
 Widip is a system for programming with diagrams.
 
