@@ -1,8 +1,6 @@
 Hi, I'm Coll 👋🏼
 
-I'm an independent researcher and software engineer. My interests lie at the intersection of Math and Computing with Category Theory.
-
-> _Types? Where we're going, we don't need types!_
+I'm an independent computing scientist with broad interests.
 
 ---
 
