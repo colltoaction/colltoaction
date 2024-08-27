@@ -1,6 +1,6 @@
-Hi, I'm Coll 👋🏼
+Hello from Buenos Aires, Argentina 🇦🇷
 
-I'm an independent computing scientist with broad interests.
+I'm Martín Coll, a Computer Science bachelor and a professional engineer. At the moment I only do free software and content.
 
 ---
 
@@ -31,6 +31,7 @@ I want to work on several projects using Widip:
   * instruction set architectures
   * MLIR and intermediate representations
   * bytecode formats
+  * supercompilation
 * programming
   * Kubernetes
   * composing LLMs, AI in general
