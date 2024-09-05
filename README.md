@@ -6,6 +6,11 @@ Hello from Buenos Aires, Argentina! I'm Martín Coll, a Computer Science bachelo
 
 # 🔭 I’m currently working on
 
+## HIF: Hypergraph Interchange Format
+Several higher-order graph libraries are collaborating on a shared JSON schema for this type of data.
+
+* https://github.com/pszufe/HIF_validators
+
 ## FPGAs and hardware development
 I have an academic interest in Reversible Computing with applications to Quantum systems. I'm also working with an open Argentinian board to help local innovation.
 
