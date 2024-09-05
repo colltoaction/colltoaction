@@ -1,48 +1,34 @@
-Hello from Buenos Aires, Argentina 🇦🇷
+🇦🇷🇦🇷🇦🇷
 
-I'm Martín Coll, a Computer Science bachelor and a professional engineer. At the moment I only do free software and content.
+Hello from Buenos Aires, Argentina! I'm Martín Coll, a Computer Science bachelor and a professional engineer. I build systems for the public domain and I'm always looking for collaborators of any skill level. Reach me out for mentoring to kick-start your open-source journey on impactful projects.
 
 ---
 
 # 🔭 I’m currently working on
 
-## Reversible computing with FPGAs
-Open hardware descriptions for reversible computers.
+## FPGAs and hardware development
+I have an academic interest in Reversible Computing with applications to Quantum systems. I'm also working with an open Argentinian board to help local innovation.
 
 * https://github.com/colltoaction/edu-ciaa-fpga
 
 ## Widip: Wiring Diagram Processing
-Widip is a system for programming with diagrams.
+Widip is a Computing system with the ambition to beat current ones at the theoretical and humane levels.
 
 * https://github.com/colltoaction/widip
 
-## Academic research
-Academic and project related writings.
+## Academic writing
+I publish plain text sources for academic and related writings. These can be edited to produce new binary artifacts such as PDFs.
 
 * https://github.com/colltoaction/academic
 
 # Recent work
 ## Spanish talks
+Intento compartir mis conocimientos en español y mantengo esta playlist actualizada:
+
 https://youtube.com/playlist?list=PLAHKhfRZFp-Z6TuGShdeZENCAlAMEjkV1
 
 ## 🔮 Future work
-I want to work on several projects using Widip:
-* compilers
-  * instruction set architectures
-  * MLIR and intermediate representations
-  * bytecode formats
-  * supercompilation
-* programming
-  * Kubernetes
-  * composing LLMs, AI in general
-  * UNIX
-  * Reactive programming
-  * Ethereum
-  * custom hardware
-  * formalized programs
-* self improvement
-  * binary bootstrapping using Julia
-  * git(hub) decentralized program distribution
+I want to present Widip to a large audience such as in a conference. I'm preparing a paper and also working towards a robust implementation. I'm building a community that can push this project to the next level.
 
 <!--
 **colltoaction/colltoaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
