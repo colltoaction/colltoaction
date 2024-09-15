@@ -1,6 +1,8 @@
 🇦🇷🇦🇷🇦🇷
 
-Hello from Buenos Aires, Argentina! I'm Martín Coll, a Computer Science bachelor and a professional engineer. I build systems for the public domain and I'm always looking for collaborators of any skill level. Reach me out for mentoring to kick-start your open-source journey on impactful projects.
+Hello from Buenos Aires, Argentina! I'm Martín Coll, a Computer Science bachelor and a professional engineer. I build systems for the public domain and I'm always looking for collaborators of any skill level.
+
+Reach me out for free mentoring!
 
 ---
 
@@ -24,7 +26,7 @@ Widip is a Computing system with the ambition to beat current ones at the theore
 ## Academic writing
 I publish plain text sources for academic and related writings. These can be edited to produce new binary artifacts such as PDFs.
 
-* https://github.com/colltoaction/academic
+* https://github.com/colltoaction/writings
 
 # Recent work
 ## Spanish talks
