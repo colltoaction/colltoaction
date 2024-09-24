@@ -13,6 +13,12 @@ Several higher-order graph libraries are collaborating on a shared JSON schema f
 
 * https://github.com/pszufe/HIF_validators
 
+## Ututo Linux
+
+[@ututolinux](https://github.com/ututolinux) is a long-standing Argentinian Linux distribution. We're working on Ututo 11 which will feature a Fedora base.
+
+* https://ututo.ar
+
 ## FPGAs and hardware development
 I have an academic interest in Reversible Computing with applications to Quantum systems. I'm also working with an open Argentinian board to help local innovation.
 
