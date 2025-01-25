@@ -7,10 +7,15 @@ I'm Martín Coll, a computer scientist and engineer building a new generation of
 ## I’m currently working on
 
 ### HIF: Hypergraph Interchange Format
-HIF is a standardized framework for representing higher-order network data, designed to enable seamless data exchange between higher-order network analysis
+HIF is a standard for representing higher-order network data, designed to enable seamless data exchange between higher-order network analysis
 software packages. A growing number of libraries support this standard including: [HypergraphX](https://github.com/HGX-Team/hypergraphx), [HyperNetX](https://github.com/pnnl/HyperNetX), [XGI](https://github.com/xgi-org/xgi) and [HypergraphAnalysisToolbox](https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox).
 
 * https://github.com/pszufe/HIF-standard
+* https://github.com/colltoaction/nx_hif
+
+I will present HIF at NetSci2025 and participate in the Network Analysis Software Collective (NASCol) satellite.
+
+* https://netsci.nascol.net/
 
 ### Widip: Wiring Diagram Processing
 Widip is a computing system that uses YAML as an intermediate representation of Hypergraphs. `nx_yaml` supports the round-trip of the standard YAML textual form through NetworkX as the implementation of the internal graph representation.
