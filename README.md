@@ -10,12 +10,17 @@ I'm Martín Coll, a computer scientist and engineer building a new generation of
 HIF is a standard for representing higher-order network data, designed to enable seamless data exchange between higher-order network analysis
 software packages. A growing number of libraries support this standard including: [HypergraphX](https://github.com/HGX-Team/hypergraphx), [HyperNetX](https://github.com/pnnl/HyperNetX), [XGI](https://github.com/xgi-org/xgi) and [HypergraphAnalysisToolbox](https://github.com/Jpickard1/Hypergraph-Analysis-Toolbox).
 
+I will present HIF at NetSci2025 in the Software and Data for Supporting Network Science satellite.
+
 * https://github.com/pszufe/HIF-standard
+* https://netsci.nascol.net/abstracts/hif.html
 * https://github.com/colltoaction/nx_hif
 
-I will present HIF at NetSci2025 and participate in the Network Analysis Software Collective (NASCol) satellite.
+### MLIR Inet dialect
+The MLIR Inet dialect is an addition to the MLIR core allowing one to work with Interaction Nets.
 
-* https://netsci.nascol.net/
+* https://github.com/colltoaction/mlir-inet-dialect
+* https://discourse.llvm.org/t/open-mlir-meeting-april-10-2025-inet-interaction-nets-dialect/85763
 
 ### Widip: Wiring Diagram Processing
 Widip is a computing system that uses YAML as an intermediate representation of Hypergraphs. `nx_yaml` supports the round-trip of the standard YAML textual form through NetworkX as the implementation of the internal graph representation.
@@ -27,11 +32,6 @@ Widip is a computing system that uses YAML as an intermediate representation of 
 I have an academic interest in Reversible Computing with applications to Quantum systems. I'm also working with an open Argentinian board to help local innovation.
 
 * https://github.com/colltoaction/edu-ciaa-fpga
-
-### Ututo Linux
-[@ututolinux](https://github.com/ututolinux) is a long-standing Argentinian Linux distribution. We're working on Ututo 11 which will feature a Fedora base.
-
-* https://ututo.ar
 
 ### Academic writing
 I publish plain text sources for academic and related writings. These can be edited to produce new binary artifacts such as PDFs.
