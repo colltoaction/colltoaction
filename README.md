@@ -9,10 +9,9 @@ I believe that in this era of hardware-software co-design, software development 
 ## I’m currently working on
 
 ### HIF: Hypergraph Interchange Format
-HIF is a standard for representing higher-order network data, designed to enable seamless data exchange between higher-order network analysis
-software packages.
+I'm a co-author in the HIF paper and presented it at NetSci2025.
 
-I presented HIF at NetSci2025 in the Software and Data for Supporting Network Science satellite.
+> To enable seamless data exchange between higher-order network analysis software packages, we introduce the Hypergraph Interchange Format (HIF), a standardized format for storing higher-order network data. HIF supports multiple types of higher-order networks, including undirected hypergraphs, directed hypergraphs, and simplicial complexes, while actively exploring extensions to represent multiplex hypergraphs, temporal hypergraphs, and ordered hypergraphs. This initiative is a collaborative effort involving authors, maintainers, and contributors from prominent hypergraph software packages. This project introduces a JSON schema with corresponding documentation and unit tests, example HIF-compliant datasets, and tutorials demonstrating the use of HIF with several popular higher-order network analysis software packages. [arXiv:2507.11520](https://arxiv.org/abs/2507.11520)
 
 * https://github.com/pszufe/HIF-standard
 * https://netsci.nascol.net/abstracts/hif.html
