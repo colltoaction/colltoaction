@@ -1,10 +1,21 @@
-Hello from Buenos Aires, Argentina! 🇦🇷
+# 💼 Open source strategist
+The largest tech companies recognize the need for an Open source strategy, even driving key projects:
+* [Nvidia](https://developer.nvidia.com/open-source): CUDA
+* [Google](https://opensource.google/): Golang, Kubernetes, TensorFlow
+* [Microsoft](https://opensource.microsoft.com/): TypeScript, VSCode
+* [Apple](https://opensource.apple.com/): Swift
+* [Meta](https://opensource.fb.com/): React, PyTorch
 
-I'm Martín Coll, a computer scientist and engineer building a new generation of programming tools and computer systems.
-
-I believe that in this era of hardware-software co-design, software development has the largest upside considering the lag behind computer science and math. It is also necessary to develop more theory, as we keep discovering useful models.
+📫 [Get in touch](https://github.com/sponsors/colltoaction) and I will help you reach your developer audience like them!
 
 ---
+
+# About me
+Hello from Buenos Aires, Argentina! 🇦🇷
+
+I'm Martín, a computer scientist and engineer building a new generation of programming tools and computer systems. 
+
+I believe that in this era of hardware-software co-design, software development has the largest upside considering the lag behind computer science and math. It is also necessary to develop more theory, as we keep discovering useful models.
 
 ## I’m currently working on
 
