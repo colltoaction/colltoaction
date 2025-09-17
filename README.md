@@ -6,7 +6,7 @@ The largest tech companies recognize the need for an Open source strategy, even 
 * [Apple](https://opensource.apple.com/): Swift
 * [Meta](https://opensource.fb.com/): React, PyTorch
 
-📫 [Get in touch](https://github.com/sponsors/colltoaction) and I will help you reach your developer audience like them!
+📫 [Get in touch](https://github.com/sponsors/colltoaction) and I will help you tap into the world-scale codebase that silently powers all tech.
 
 ---
 
